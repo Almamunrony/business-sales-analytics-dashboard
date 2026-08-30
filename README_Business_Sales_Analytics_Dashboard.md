@@ -165,21 +165,6 @@ It can help decision-makers:
 
 Replace the path above with the actual location of your dashboard image.
 
-## 📂 Recommended Project Structure
-
-```text
-business-sales-analytics-dashboard/
-│
-├── README.md
-├── Dataset/
-│   └── sales_data.xlsx
-├── Excel/
-│   └── sales_analysis.xlsx
-├── PowerBI/
-│   └── sales_dashboard.pbix
-└── Dashboard/
-    └── dashboard-preview.png
-```
 
 Upload only the files that are actually part of your project.
 

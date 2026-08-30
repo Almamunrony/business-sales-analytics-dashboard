@@ -160,11 +160,8 @@ It can help decision-makers:
 
 ## 🖼️ Dashboard Preview
 
-Add your dashboard screenshot here:
+<img width="831" height="403" alt="image" src="https://github.com/user-attachments/assets/f47eb4f2-726f-4763-b81c-f3b8811c6190" />
 
-```markdown
-![Business Sales Analytics Dashboard](Dashboard/dashboard-preview.png)
-```
 
 Replace the path above with the actual location of your dashboard image.
 
